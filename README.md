@@ -9,7 +9,7 @@ In the new folder, create a python environment and activate it:
 ```
 cd Flask_app
 python -m venv env
-source env/scripts/activate
+source env/bin/activate
 ```
 install the libraries:
 ```
