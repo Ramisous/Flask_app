@@ -23,4 +23,4 @@ export FLASK_ENV=development
 flask run
 ```
 
-* This command shows you the localhost port that contains the application ('http://127.0.0.1:5000/' in general)
+* To view the application, click the URL 'http://127.0.0.1:5000/' 
