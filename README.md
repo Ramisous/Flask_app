@@ -1,11 +1,11 @@
 The purpose of this Flask application is to predict whether a basketball player is good or not based on its statistics.
 
-To launch this application, clone the repository :
+* To launch this application, clone the repository :
 
 ```
 git clone https://github.com/Ramisous/Flask_app.git
 ```
-In the new folder, create a python environment and activate it:
+* In the new folder, create a python environment and activate it:
 ```
 cd Flask_app
 python -m venv env
