@@ -23,4 +23,4 @@ export FLASK_ENV=development
 flask run
 ```
 
-* To view the application, click the URL 'http://127.0.0.1:5000/' 
+* Click the URL to display the application. 
